@@ -1,52 +1,32 @@
 # Project Name
-> Outline a brief description of your project.
+Complete EDA for Loan Prediction
 
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+#Table of Contents
+I. Prerequisite
 
-<!-- You can include any other section that is pertinent to your problem -->
+II. Import Libraries and set required parameters
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+III. Data Sourcing
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+IV. Data Cleaning and Manipulation
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+V. Derived Metrics
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+VI. Univariate Analysis
+
+VII. Bivariate/Multivariate Analysis
+
+VII. Bivariate/Multivariate Analysis with Probability of Charged off
+
+IX. Conclusion
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+I. Prerequisite
+Place 'loan.csv' input file at "../input" directory before running this code.
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+Please make sure that you have following python libraries imported/installed at your system:
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->"# EDA_loan_default_case_study" 
+numpy version : 1.12.1 or higher
+pandas version : 0.20.3 or higher
+seaborn version : 0.8.0 or higher
